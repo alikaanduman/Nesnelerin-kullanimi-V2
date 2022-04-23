@@ -1,0 +1,21 @@
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.exe.config
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.exe
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.pdb
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\obj\Debug\Nesnelerin_Kullanımı.Form1.resources
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\obj\Debug\Nesnelerin_Kullanımı.Properties.Resources.resources
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.csproj.GenerateResource.Cache
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.exe
+C:\Users\Ogrenci1\Desktop\Yeni klasör\Nesnelerin Kullanımı\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.pdb
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.exe.config
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.exe
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.pdb
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.exe
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.pdb
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.csprojResolveAssemblyReference.cache
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin_Kullanımı.Form1.resources
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin_Kullanımı.Properties.Resources.resources
+E:\ \Nesnel Tabanlı Programlama\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.csproj.GenerateResource.Cache
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\bin\Debug\Nesnelerin Kullanımı.exe.config
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.exe
+D:\BİLİŞİM\Bilişim\Nesnel Tabanlı Programlama\UYGULAMALAR\Nesnelerin Kullanımı V2\Nesnelerin Kullanımı\obj\Debug\Nesnelerin Kullanımı.pdb
